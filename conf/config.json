@@ -1,0 +1,20 @@
+{"servers":
+	[
+		{
+			"username": "server-01",
+			"name": "server-01",
+			"type": "KVM",
+			"host": "8.8.8.8",
+			"location": "Seattle",
+			"password": "server-01"
+		},
+		{
+			"username": "server-02",
+			"name": "server-02",
+			"type": "KVM",
+			"host": "8.8.8.8",
+			"location": "Los Angeles",
+			"password": "server-02"
+		},
+	]
+}
