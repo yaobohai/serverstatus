@@ -20,3 +20,10 @@ git clone -b develop https://github.com/yaobohai/serverstatus.git monitor
 ```
 sh /app/monitor/startup.sh
 ```
+
+### 访问前段
+
+```
+http://IP:9400
+```
+```
