@@ -18,6 +18,6 @@ git clone -b develop https://github.com/yaobohai/serverstatus.git monitor
 ## 启动服务端
 
 ```
-cd /app/monitor
+cd /app/
 sh startup.sh
 ```
