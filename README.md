@@ -11,13 +11,12 @@ yum -y install git docker \
 克隆仓库
 
 ```
-mkdir /app/monitor;cd $_
+mkdir /app/;cd $_
 git clone -b develop https://github.com/yaobohai/serverstatus.git monitor
 ```
 
 ## 启动服务端
 
 ```
-cd /app/
-sh startup.sh
+sh /app/monitor/startup.sh
 ```
